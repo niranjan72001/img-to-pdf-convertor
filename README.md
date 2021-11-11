@@ -7,6 +7,5 @@ A user must have the following libraries installed in your IDE for the successfu
 2.os
 3.tk .
 The user can select the multiple images and  the required name for the pdf file as input to the program when requested.
-a sample input output demo is attached together
 support
 for any issues or queries , contributions or ideas to the programm contact:niranjan000719@gmail.com
